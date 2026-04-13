@@ -98,7 +98,7 @@ Built an interactive dashboard in Power BI to clearly present insights and patte
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### Overall Churn
 
@@ -107,7 +107,7 @@ Built an interactive dashboard in Power BI to clearly present insights and patte
 
 ---
 
-### 👤 Customer Profile
+###  Customer Profile
 
 - Customers aged **46–65** have the highest churn (~50%)  
 - Female customers churn more (**25%**) than males (**16%**)  
@@ -125,14 +125,14 @@ Built an interactive dashboard in Power BI to clearly present insights and patte
 
 ---
 
-### 🏦 Customer Relationship (MOST IMPORTANT)
+###  Customer Relationship (MOST IMPORTANT)
 
 - Customers with **1 product** → high churn (**28%**)  
 - Customers with **2 products** → lowest churn (**8%**)  
 
 ---
 
-### ⚡ Customer Activity
+###  Customer Activity
 
 - **Inactive customers** → ~27% churn  
 - **Active customers** → ~14% churn  
@@ -141,7 +141,7 @@ Built an interactive dashboard in Power BI to clearly present insights and patte
 
 ---
 
-### 💳 Credit Score
+### Credit Score
 
 - Low → 24%  
 - Medium → 20%  
@@ -151,7 +151,7 @@ Built an interactive dashboard in Power BI to clearly present insights and patte
 
 ---
 
-### 🌍 Geography
+###  Geography
 
 - Germany → **32% churn 🚨**  
 - France → 16%  
@@ -161,7 +161,7 @@ Built an interactive dashboard in Power BI to clearly present insights and patte
 
 ---
 
-## 🧠 Final Interpretation
+## Final Interpretation
 
 After connecting all the insights, one thing became clear:
 
@@ -170,7 +170,7 @@ After connecting all the insights, one thing became clear:
 
 ---
 
-### 🔥 Core Pattern
+###  Core Pattern
 
 Customers most likely to leave are:
 
@@ -181,7 +181,7 @@ Customers most likely to leave are:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 If I were the bank, I would focus on:
 
@@ -212,7 +212,7 @@ If I were the bank, I would focus on:
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 I built a Power BI dashboard to visualize:
 
@@ -230,14 +230,14 @@ I built a Power BI dashboard to visualize:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Power BI** (Dashboard & Visualization)  
 - **Excel** (Data preparation & analysis)  
 
 ---
 
-## 🚀 What I Learned
+##  What I Learned
 
 This project helped me:
 
@@ -248,7 +248,7 @@ This project helped me:
 
 ---
 
-## 📌 Final Note
+##  Final Note
 
 This project is part of my journey into data analysis.
 
@@ -256,6 +256,6 @@ I’m continuously learning, improving, and building — one project at a time.
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
-- LinkedIn(https://www.linkedin.com/in/emmanuel-samuel001)
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-samuel001)
