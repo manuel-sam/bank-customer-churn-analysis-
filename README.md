@@ -256,4 +256,4 @@ I’m continuously learning, improving, and building — one project at a time.
 
 ## 📫 Let’s Connect
 
-- LinkedIn: (Add your link here)
+- LinkedIn(https://www.linkedin.com/in/emmanuel-samuel001)
