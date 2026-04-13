@@ -107,67 +107,22 @@ Built an interactive dashboard in Power BI to clearly present insights and patte
 
 ---
 
-##  Key Insights
+## 🔍 Key Insights
 
-### Overall Churn
+- **Churn Rate:** 20% (1 in 5 customers leave)
 
-- **Churn Rate: 20%**  
-👉 This means **1 in every 5 customers is leaving**
+- **Engagement is the strongest driver:**
+  - Inactive customers churn almost 2x more  
+  - Customers with 1 product churn the most  
+  - Customers with 2 products are the most stable  
 
----
+- **High-value customers are at risk:**
+  - Customers with higher balances churn more  
 
-###  Customer Profile
+- **Geography matters:**
+  - Germany has the highest churn (~32%)  
 
-- Customers aged **46–65** have the highest churn (~50%)  
-- Female customers churn more (**25%**) than males (**16%**)  
-
-👉 Churn is higher among specific customer segments
-
----
-
-###  Financial Behavior
-
-- Customers with **high balances** churn the most (~25%)  
-- Customers with **zero balance** churn the least (~14%)  
-
-🚨 The bank is losing **valuable customers**, not just inactive ones
-
----
-
-###  Customer Relationship (MOST IMPORTANT)
-
-- Customers with **1 product** → high churn (**28%**)  
-- Customers with **2 products** → lowest churn (**8%**)  
-
----
-
-###  Customer Activity
-
-- **Inactive customers** → ~27% churn  
-- **Active customers** → ~14% churn  
-
-🔥 Inactive customers churn almost **2x more**
-
----
-
-### Credit Score
-
-- Low → 24%  
-- Medium → 20%  
-- High → 20%  
-
-👉 Credit score has **minimal impact on churn**
-
----
-
-###  Geography
-
-- Germany → **32% churn 🚨**  
-- France → 16%  
-- Spain → 17%  
-
-👉 Churn is significantly higher in **Germany**
-
+- **Credit score has minimal impact**
 ---
 
 ## Final Interpretation
