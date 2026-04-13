@@ -220,6 +220,12 @@ This project reflects my journey from just using tools to actually thinking thro
 
 ---
 
+## 📁 Project Structure
+
+- `data/` → Dataset used for analysis  
+- `dashboard/` → Power BI dashboard file (.pbix)  
+- `images/` → Dashboard screenshots  
+
 ##  Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/emmanuel-samuel001)
