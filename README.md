@@ -223,7 +223,7 @@ I built a Power BI dashboard to visualize:
 
 ---
 
-### 📸 Dashboard Preview
+### ![](https://github.com/manuel-sam/bank-customer-churn-analysis-/blob/main/Churn%20Dasnboard%20page%202.png)
 
 
 ---
