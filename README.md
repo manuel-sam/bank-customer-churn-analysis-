@@ -1,6 +1,6 @@
-# 📊 Bank Customer Churn Analysis
+# Bank Customer Churn Analysis
 
-## 🧠 Project Overview
+##  Project Overview
 
 I worked on this project to understand a real business problem:
 
@@ -12,7 +12,7 @@ This project helped me move beyond just using tools to actually **thinking like 
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The goal of this analysis is to:
 
@@ -22,7 +22,7 @@ The goal of this analysis is to:
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 The dataset contains **10,000 customer records** with the following features:
 
@@ -38,31 +38,31 @@ The dataset contains **10,000 customer records** with the following features:
 
 ---
 
-## 🧠 Key Questions Explored
+##  Key Questions Explored
 
 To approach the problem, I broke it down into key areas:
 
-### 👤 Customer Profile
+### Customer Profile
 - Does age affect churn?
 - Does gender play a role?
 
-### 💰 Financial Behavior
+###  Financial Behavior
 - Does account balance influence churn?
 - Are high-value customers more likely to leave?
 
-### 🏦 Customer Relationship
+###  Customer Relationship
 - Does the number of products matter?
 - Does being active reduce churn?
 
-### 💳 Financial Status
+###  Financial Status
 - Does credit score impact churn?
 
-### 🌍 Geography
+###  Geography
 - Which regions have the highest churn?
 
 ---
 
-## 📈 Data Analysis Process
+##  Data Analysis Process
 
 ### 1. Understanding the Problem  
 I started with a clear business question:
@@ -100,7 +100,7 @@ Built an interactive dashboard in Power BI to clearly present insights and patte
 
 ## 🔍 Key Insights
 
-### 🔢 Overall Churn
+### Overall Churn
 
 - **Churn Rate: 20%**  
 👉 This means **1 in every 5 customers is leaving**
@@ -116,7 +116,7 @@ Built an interactive dashboard in Power BI to clearly present insights and patte
 
 ---
 
-### 💰 Financial Behavior
+###  Financial Behavior
 
 - Customers with **high balances** churn the most (~25%)  
 - Customers with **zero balance** churn the least (~14%)  
