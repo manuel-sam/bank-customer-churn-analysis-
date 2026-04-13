@@ -107,7 +107,7 @@ Built an interactive dashboard in Power BI to clearly present insights and patte
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - **Churn Rate:** 20% (1 in 5 customers leave)
 
@@ -212,11 +212,11 @@ This project helped me:
 
 ---
 
-##  Final Note
+---
 
-This project is part of my journey into data analysis.
+##  Final Thought
 
-I’m continuously learning, improving, and building — one project at a time.
+This project reflects my journey from just using tools to actually thinking through data problems and connecting insights to real business decisions.
 
 ---
 
