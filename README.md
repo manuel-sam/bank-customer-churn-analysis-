@@ -2,8 +2,12 @@
 
 ##  Project Overview
 
-I worked on this project to understand a real business problem:
+This project analyzes customer churn in a bank to uncover the key factors driving customer attrition and provide actionable business insights.
 
+The goal is simple:  
+Why are customers leaving the bank?
+
+But the insights reveal a deeper story — churn is not random, it is driven by customer behavior and engagement.
 > Why are customers leaving the bank?
 
 At first, it sounded straightforward. But as I went deeper into the data, I realized churn is not random — there are clear patterns behind it.
@@ -11,6 +15,11 @@ At first, it sounded straightforward. But as I went deeper into the data, I real
 This project helped me move beyond just using tools to actually **thinking like a data analyst**, asking better questions and connecting insights.
 
 ---
+
+### 
+![DASHBOARD](https://github.com/manuel-sam/bank-customer-churn-analysis-/blob/main/Churn%20Dashboard%201.png)
+![](https://github.com/manuel-sam/bank-customer-churn-analysis-/blob/main/Churn%20Dasnboard%20page%202.png)
+
 
 ##  Objective
 
@@ -224,7 +233,7 @@ I built a Power BI dashboard to visualize:
 ---
 
 ### 
-![](https://github.com/manuel-sam/bank-customer-churn-analysis-/blob/main/Churn%20Dashboard%201.png)
+![DASHBOARD](https://github.com/manuel-sam/bank-customer-churn-analysis-/blob/main/Churn%20Dashboard%201.png)
 ![](https://github.com/manuel-sam/bank-customer-churn-analysis-/blob/main/Churn%20Dasnboard%20page%202.png)
 
 
